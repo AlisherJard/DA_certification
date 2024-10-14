@@ -39,7 +39,7 @@ The certification process included three main components:
 Demonstrated understanding of core data analysis concepts through adaptive testing.
 
     2. Coding Challenge
-Solved data cleaning and transformation tasks using SQL and Python.
+Solved data cleaning and transformation tasks using Python.
 Tackled real-world data problems without step-by-step guidance.
 
     3. Practical Exam
